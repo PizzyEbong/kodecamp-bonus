@@ -1,0 +1,25 @@
+.cardedit{
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+.size{
+    height: 200px !important;
+}
+body{
+    background-color: #E5E5E5 !important;
+}
+.shadow{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
+.submit{
+    margin-right: 2px !important;
+    width: 30% !important;
+
+}
+#who{
+    border: solid #D89616; 
+    width: 10%; 
+    margin-left: 45%;
+    
+}
